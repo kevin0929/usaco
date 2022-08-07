@@ -13,7 +13,7 @@ bool p(string s);
 int main()
 {
     ofstream fout("palsquare.out");
-	ifstream fin("palsquare.in");
+    ifstream fin("palsquare.in");
     
     fin >> b;
     string s;
