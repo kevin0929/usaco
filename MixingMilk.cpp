@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
     ofstream fout("milk.out");
-	ifstream fin("milk.in");
+    ifstream fin("milk.in");
     
     int n, m, sum = 0;
     fin >> n >> m;
